@@ -1,0 +1,13 @@
+{
+  "name": "cmxbot",
+  "version": "1.0.0",
+  "description": "Discord Bot Created By ClaytonMx",
+  "main": "bot.js",
+  "author": "ClaytonMx",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1",
+    "snekfetch": "^4.0.4"
+  }
+}

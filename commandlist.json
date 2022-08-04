@@ -1,0 +1,8 @@
+[{"name":"!getusers","description":"Gets the live list of players"}
+    ,{"name":"!revs","description":"!rev (amount) = matts for amount of revs"}
+    ,{"name":"!maxupgrade","description":"!maxupgrade (amount) = matts needed for #of upgrade kits"}
+    ,{"name":"!driftchip","description":"!driftchip (amount) = matts needed for the amount of chips"}
+    ,{"name":"!coke","description":"!coke (amount) calcs the amount of bags & scales for leaves"}
+    ,{"name":"!drugprices","description":"list the max amount you can sell each drug for"}
+    ,{"name":"!plane","description":"!plane (nameofplane) shows picture of the plane "}
+    ,{"name":"!commands","description":"List all of the commands for the CMxBot"}]
